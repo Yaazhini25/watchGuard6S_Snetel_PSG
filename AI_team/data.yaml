@@ -1,0 +1,5 @@
+train: C:/snetel-proj/snetel/fire and smoke detection.v2i/train/images
+val: C:/snetel-proj/snetel/fire and smoke detection.v2i/test/images
+
+nc: 2
+names: ['fire', 'smoke']
